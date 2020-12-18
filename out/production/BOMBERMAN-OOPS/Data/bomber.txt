@@ -1,0 +1,423 @@
+
+60
+
+idle1
+image src/Data/bomber2.png
+x 0
+y 0
+w 45
+h 45
+
+idle2
+image src/Data/bomber2.png
+x 45
+y 0
+w 45
+h 45
+
+idle3
+image src/Data/bomber2.png
+x 90
+y 0
+w 45
+h 45
+
+idle4
+image src/Data/bomber2.png
+x 135
+y 0
+w 45
+h 45
+
+idle5
+image src/Data/bomber2.png
+x 0
+y 45
+w 45
+h 45
+
+idle6
+image src/Data/bomber2.png
+x 45
+y 45
+w 45
+h 45
+
+idle7
+image src/Data/bomber2.png
+x 90
+y 45
+w 45
+h 45
+
+idle8
+image src/Data/bomber2.png
+x 135
+y 45
+w 45
+h 45
+
+idle9
+image src/Data/bomber2.png
+x 0
+y 90
+w 45
+h 45
+
+idle10
+image src/Data/bomber2.png
+x 45
+y 90
+w 45
+h 45
+
+idle11
+image src/Data/bomber2.png
+x 90
+y 90
+w 45
+h 45
+
+idle12
+image src/Data/bomber2.png
+x 135
+y 90
+w 45
+h 45
+
+idle13
+image src/Data/bomber2.png
+x 0
+y 135
+w 45
+h 45
+
+idle14
+image src/Data/bomber2.png
+x 45
+y 135
+w 45
+h 45
+
+idle15
+image src/Data/bomber2.png
+x 90
+y 135
+w 45
+h 45
+
+idle16
+image src/Data/bomber2.png
+x 135
+y 135
+w 45
+h 45
+
+boss1
+image src/Data/pokemon.png
+x 0
+y 0
+w 45
+h 45
+
+boss2
+image src/Data/pokemon.png
+x 45
+y 0
+w 45
+h 45
+
+boss3
+image src/Data/pokemon.png
+x 0
+y 45
+w 45
+h 45
+
+boss4
+image src/Data/pokemon.png
+x 45
+y 45
+w 45
+h 45
+
+boss5
+image src/Data/pokemon.png
+x 0
+y 90
+w 45
+h 45
+
+boss6
+image src/Data/pokemon.png
+x 45
+y 90
+w 45
+h 45
+
+boss7
+image src/Data/pokemon.png
+x 0
+y 135
+w 45
+h 45
+
+boss8
+image src/Data/pokemon.png
+x 45
+y 135
+w 45
+h 45
+
+ghost
+image src/Data/ghost.jpg
+x 90
+y 45
+w 45
+h 45
+
+bomb1
+image src/Data/bomb.png
+x 0
+y 0
+w 45
+h 45
+
+bomb2
+image src/Data/bomb.png
+x 45
+y 0
+w 45
+h 45
+
+bomb3
+image src/Data/bomb.png
+x 90
+y 0
+w 45
+h 45
+
+bombang1
+image src/Data/bombang.png
+x 0
+y 0
+w 45
+h 45
+
+bombang2
+image src/Data/bombang.png
+x 45
+y 0
+w 45
+h 45
+
+bombang3
+image src/Data/bombang.png
+x 90
+y 0
+w 45
+h 45
+
+bombang4
+image src/Data/bombang.png
+x 135
+y 0
+w 45
+h 45
+
+bombang5
+image src/Data/bombang.png
+x 0
+y 45
+w 45
+h 45
+
+bombang6
+image src/Data/bombang.png
+x 45
+y 45
+w 45
+h 45
+
+bombang7
+image src/Data/bombang.png
+x 90
+y 45
+w 45
+h 45
+
+bombang8
+image src/Data/bombang.png
+x 135
+y 45
+w 45
+h 45
+
+monster1
+image src/Data/monster.png
+x 270
+y 0
+w 45
+h 45
+
+monster2
+image src/Data/monster.png
+x 315
+y 0
+w 45
+h 45
+
+monster3
+image src/Data/monster.png
+x 360
+y 0
+w 45
+h 45
+
+monster4
+image src/Data/monster.png
+x 270
+y 45
+w 45
+h 45
+
+monster5
+image src/Data/monster.png
+x 315
+y 45
+w 45
+h 45
+
+monster6
+image src/Data/monster.png
+x 360
+y 45
+w 45
+h 45
+
+monster7
+image src/Data/monster.png
+x 270
+y 90
+w 45
+h 45
+
+monster8
+image src/Data/monster.png
+x 315
+y 90
+w 45
+h 45
+
+monster9
+image src/Data/monster.png
+x 360
+y 90
+w 45
+h 45
+
+monster10
+image src/Data/monster.png
+x 270
+y 135
+w 45
+h 45
+
+monster11
+image src/Data/monster.png
+x 315
+y 135
+w 45
+h 45
+
+monster12
+image src/Data/monster.png
+x 360
+y 135
+w 45
+h 45
+
+monsterA1
+image src/Data/monster.png
+x 0
+y 0
+w 45
+h 45
+
+monsterA2
+image src/Data/monster.png
+x 45
+y 0
+w 45
+h 45
+
+monsterA3
+image src/Data/monster.png
+x 90
+y 0
+w 45
+h 45
+
+monsterA4
+image src/Data/monster.png
+x 0
+y 45
+w 45
+h 45
+
+monsterA5
+image src/Data/monster.png
+x 45
+y 45
+w 45
+h 45
+
+monsterA6
+image src/Data/monster.png
+x 90
+y 45
+w 45
+h 45
+
+monsterA7
+image src/Data/monster.png
+x 0
+y 90
+w 45
+h 45
+
+monsterA8
+image src/Data/monster.png
+x 45
+y 90
+w 45
+h 45
+
+monsterA9
+image src/Data/monster.png
+x 90
+y 90
+w 45
+h 45
+
+monsterA10
+image src/Data/monster.png
+x 0
+y 135
+w 45
+h 45
+
+monsterA11
+image src/Data/monster.png
+x 45
+y 135
+w 45
+h 45
+
+monsterA12
+image src/Data/monster.png
+x 90
+y 135
+w 45
+h 45
+
